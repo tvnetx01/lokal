@@ -1,5 +1,23 @@
 {
   "api_url": "https://servicebuss.transvision.co.id/cubmu/channel/v2/get_url_transform?type=live_tv&genre_id=10&platform_id=4028c68574537fcd0174af6756a94288&media_ext=MPD",
+  "headers": {
+    "accept": "*/*",
+    "accept-encoding": "gzip, deflate, br, zstd",
+    "accept-language": "id,en-US;q=0.9,en;q=0.8,da;q=0.7,ms;q=0.6",
+    "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI2MiIsImp0aSI6Ijk1ZDE5ZjFjYWY1YTRiMWUzNDA0NGZmNjA0NmJjYTM1OTNkY2FiODZiYzE0N2Y3ZGEwYTE0MzAzZTkzZTZkMmEyYzY3MWM0OTFhM2RhZDQ4IiwiaWF0IjoxNzYzOTkxNTUwLCJuYmYiOjE3NjM5OTE1NTAsImV4cCI6MTc2NDU5NjM1MCwic3ViIjoiNzY1NTg4Iiwic2NvcGVzIjpbIioiXX0.Hco2MmrHT-CS65iV9esfIFFBFokt6hMYAPSsuOEUf8PWBfFBIefzq9TuJmQ-7ofCHPFGZW2gzOQ8bQSmF_tZ7dqJFY903pmB7p0ca3TIYvStp8tOZIlzod-wxCFXBJcvRBgZA4JgmwrrhytIxOeaxEdhnK9BZkemsP_DBTbfvjoN-MVxjTFIyR2AdpbXLGjB1y7NGKYjHWnFC-VBJNc8BoO6TFdjx3f9Qz_kcsvLle-_ECsS3MRKZo_jXOy1bjQa_gKxsKBNO7o6daYQWJ9Nyef_jLhnMNUPI1c8DQsdCr38XdrJmovt12AamdziFP0VSwR0KcqcDLNjNBrGk2ilY07-DlON5JIUKHaUz3kSi6LvSvU9zDtQFxA0ehkxuY2ZwoWpWbNcn4P87ZF_Eru0xsnNJr3IvZJpr8zgdMLTitkaJpNdeif69eevcTIuDWkDeftZStZD6ikJ5SGIFwkWDIQxJ9eC-bKyPJSbqomyFpRNoqklncXwk_SWjdq4sGbK7Y60m8Sq1Efg7kUltxdfP_b6161s8CrdT85Cc2-liMjSZHXS5VpKaW6isrp2wfn8cKttqQd-pUGVAl5f945yFnn3bmFl4DhzrdKuvGaxF_cQ_KIKncPeV3m4UdeeSqodPdIyO_JcZRyZispIHFMBZZmUrD7fKFNrOwFNJiRrMNM",
+    "connection": "keep-alive",
+    "content-type": "application/json",
+    "dnt": "1",
+    "origin": "https://www.cubmu.com",
+    "referer": "https://www.cubmu.com/",
+    "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?1",
+    "sec-ch-ua-platform": "\"Android\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "user-agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36"
+  },
   "tokens": {
     "Trans_TV": "edf4f4ef3ffa4737b48a29e6c6be63a8:cc9cfb1f392e4b4180d79fa8178ab041",
     "Indosiar": "7863725870545163494c4c7741306f65:327745514751744c35374f3079426232",
@@ -18,5 +36,6 @@
     "jtv": "edf4f4ef3ffa4737b48a29e6c6be63a8",
     "Berita_Satu": "edf4f4ef3ffa4737b48a29e6c6be63a8",
     "Garuda_TV": "edf4f4ef3ffa4737b48a29e6c6be63a8"
-  }
+  },
+  "default_token": "9b70ea717a6538ad861f248c1351ccf1:be587897eb4f41e3376214f7e93ebe64"
 }
