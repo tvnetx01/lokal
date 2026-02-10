@@ -4,7 +4,6 @@
     "accept": "*/*",
     "accept-encoding": "gzip, deflate, br, zstd",
     "accept-language": "id,en-US;q=0.9,en;q=0.8,da;q=0.7,ms;q=0.6",
-    "authorization": "Bearer ya29.A0AUMWg_JB1tVrY60t6WZqOvqUw3FN11sdHfITDcDzYj3j82OnpcCSiR3ndt47OTPFZ8egkckfQ8gqECvPm5SoCnlVaDmJ5H8CP5fIrJEchXoz_oFuj7QPuMpP4F-DpuejWegMVE7UdEFS_lquUjmGlEnIwKWn_6n5qHk_q21tGmZCrlNJ8nayxEzWBIun7MSTtpxsdT9Vd1SnV9ITZ-qlkY7NaUUl0BrfMAoHmNtJc7oTU3IvqXHAdot1BhcYH0P4UUTJQwxtnQpdQmzgbEgbVX-nrsJaaCgYKAWoSARASFQHGX2Min2a2TD5eLVeb8oXiU6NRWA0291",
     "connection": "keep-alive",
     "content-type": "application/json",
     "dnt": "1",
