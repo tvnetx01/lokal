@@ -4,7 +4,7 @@
     "accept": "*/*",
     "accept-encoding": "gzip, deflate, br, zstd",
     "accept-language": "id,en-US;q=0.9,en;q=0.8,da;q=0.7,ms;q=0.6",
-    "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXZpY2VfaWQiOiJ3ZWJfYnJvd3NlciIsImVtYWlsIjoicGlzaW9ucGx1c3MxMkBnbWFpbC5jb20iLCJleHAiOjE3NzMzMDE3MTcsImhvdGVsX2lkIjoiMCIsImhvdGVsX25hbWUiOm51bGwsImlzX2RldmljZV91bnBhaXJlZCI6ZmFsc2UsImlzcF9pZCI6IjYiLCJpc3BfbmFtZSI6IlRyYW5zdmlzaW9uIiwicGFja2FnZV9saXN0IjpbeyJwYWNrYWdlX2VuZF9kYXRlIjoiMjAyNy0wMi0wOSIsInBhY2thZ2VfaWQiOiIyOCIsInBhY2thZ2VfbmFtZSI6IkN1Yk11IEZyZWVtaXVtIiwicGFja2FnZV9zdGFydF9kYXRlIjoiMjAyNi0wMi0xMCJ9XSwicGhvbmUiOiIiLCJyb2xlX2lkIjoiOSIsInVzZXJfaWQiOiIxOTQxMDcifQ.D27S5WOv5wRFExgLGMUowffJcQbZWAgnXzzAhk17dJo",
+    "authorization": "Bearer ya29.A0AUMWg_JB1tVrY60t6WZqOvqUw3FN11sdHfITDcDzYj3j82OnpcCSiR3ndt47OTPFZ8egkckfQ8gqECvPm5SoCnlVaDmJ5H8CP5fIrJEchXoz_oFuj7QPuMpP4F-DpuejWegMVE7UdEFS_lquUjmGlEnIwKWn_6n5qHk_q21tGmZCrlNJ8nayxEzWBIun7MSTtpxsdT9Vd1SnV9ITZ-qlkY7NaUUl0BrfMAoHmNtJc7oTU3IvqXHAdot1BhcYH0P4UUTJQwxtnQpdQmzgbEgbVX-nrsJaaCgYKAWoSARASFQHGX2Min2a2TD5eLVeb8oXiU6NRWA0291",
     "connection": "keep-alive",
     "content-type": "application/json",
     "dnt": "1",
