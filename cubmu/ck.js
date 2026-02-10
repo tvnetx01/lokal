@@ -4,7 +4,7 @@
     "accept": "*/*",
     "accept-encoding": "gzip, deflate, br, zstd",
     "accept-language": "id,en-US;q=0.9,en;q=0.8,da;q=0.7,ms;q=0.6",
-    "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjdXJyZW50U2Vzc2lvbklkIjoiYTk5YTZkOTQtY2EzYS00YjRmLWI0ZjQtYjI0ODJkNmJmMjJiIiwiY3VycmVudERldmljZVR5cGUiOiJBIiwiY3VycmVudFBsYXRmb3JtSWQiOiI0MDI4YzY4NTc0NTM3ZmNkMDE3NGFmNjc1NmE5NDI4OCIsInRpbWV6b25lIjoiQW1lcmljYS9DaGljYWdvIiwiYXV0aG9yaXR5IjoiUk9MRV9VU0VSIiwiZXhwIjoxNzY1NzU1MTI4LCJ1c2VySWQiOiIyYzlmODA4Mjk5MzM1N2Q4MDE5YjE5ZWFhMGQ1MzlkMCIsImRldmljZUlkIjoiMTIzNDU2Nzg5MCIsImlhdCI6MTc2NTY2ODcyOCwidXNlcm5hbWUiOiJ0dm5ldHgwMV9zdGRAZ21haWwuY29tIn0.jWXelzHVDUenH1MG5gxfBvJ6IgOoG4_T0WLG5xZ_IYI",
+    "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXZpY2VfaWQiOiJ3ZWJfYnJvd3NlciIsImVtYWlsIjoicGlzaW9ucGx1c3MxMkBnbWFpbC5jb20iLCJleHAiOjE3NzMzMDE3MTcsImhvdGVsX2lkIjoiMCIsImhvdGVsX25hbWUiOm51bGwsImlzX2RldmljZV91bnBhaXJlZCI6ZmFsc2UsImlzcF9pZCI6IjYiLCJpc3BfbmFtZSI6IlRyYW5zdmlzaW9uIiwicGFja2FnZV9saXN0IjpbeyJwYWNrYWdlX2VuZF9kYXRlIjoiMjAyNy0wMi0wOSIsInBhY2thZ2VfaWQiOiIyOCIsInBhY2thZ2VfbmFtZSI6IkN1Yk11IEZyZWVtaXVtIiwicGFja2FnZV9zdGFydF9kYXRlIjoiMjAyNi0wMi0xMCJ9XSwicGhvbmUiOiIiLCJyb2xlX2lkIjoiOSIsInVzZXJfaWQiOiIxOTQxMDcifQ.D27S5WOv5wRFExgLGMUowffJcQbZWAgnXzzAhk17dJo",
     "connection": "keep-alive",
     "content-type": "application/json",
     "dnt": "1",
